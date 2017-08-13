@@ -1,4 +1,4 @@
-# ![](http://arqmain.net/RProject_Python_Logos/SAS_Logo.png)  SAS 
+# ![](http://arqmain.net/RProject_Python_Logos/SAS_Logo.png)
 <br>
 
 
